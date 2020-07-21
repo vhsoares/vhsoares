@@ -5,7 +5,7 @@ I'm foucsing my time on studying SOLID, TDD, and Clean Code. This subjects fasci
 
 🔭 I’m currently working on a website to help adopters to find new pets.
 
-🌱 I’m currently learning NodeJS
+🌱 I’m currently learning GoLang
 
 👯 I’m looking to collaborate on anything that might make the world better. Please Contact me.
 
