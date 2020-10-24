@@ -1,8 +1,5 @@
 ### Hello 👋
 
-My name is Vitor Soares. I am a Brazilian web developer currently working with C# .Net and Javascript for Join Tecnologia, Even Though my main stack is NodeJs, PHP and VueJs.
-I'm foucsing my time on studying SOLID, TDD, and Clean Code. This subjects fascinates me almost as much as Designing User Interfaces and User Experience.
-
 🔭 I’m currently working on a website to help adopters to find new pets.
 
 🌱 I’m currently learning GoLang
