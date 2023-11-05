@@ -1,8 +1,8 @@
 ### Hello 👋
 
-🔭 I’m currently working on a website to help adopters to find new pets.
+🔭 I’m currently working on a meeting scheduler.
 
-🌱 I’m currently learning GoLang
+🌱 I’m currently learning Python 🐍
 
 👯 I’m looking to collaborate on anything that might make the world better. Please Contact me.
 
